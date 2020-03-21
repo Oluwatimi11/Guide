@@ -1,0 +1,71 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: lightgray;
+    border: 2px solid black;
+    color: rgb(49, 44, 44);
+}
+img {
+    width:100px; height:100px;
+    } 
+
+h1 {
+    text-align: center;
+}
+
+.price a:hover {
+        background-color: rgb(9, 135, 238);
+        color: rgb(50, 12, 218);
+    }
+
+.price {
+        overflow: hidden;
+        background-color: rgb(252, 252, 252);
+    }
+    
+.price a{
+    float: left;
+    font-size: 17px;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: underline;
+    color: rgb(3, 3, 3);
+    background-size: cover;
+}
+.head{
+    color: darkblue;
+}
+ul > li {
+    color: rgb(133, 10, 248);
+}
+
+.content {
+    text-indent: 5%;
+
+    color:  rgb(3, 3, 3);
+}
+
+.really {
+    float: left;
+    border: 1px solid black;
+}
+
+form > input {
+    color: rgb(145, 91, 145);
+    font-weight: bold;
+    font-style: italic;
+}
+
+#text {
+    color: rgb(128, 66, 100);
+}
+
+#search {
+    background: linear-gradient(to top right, orange, violet, green, blue);
+    margin: 10px;
+}
+
+#kora {
+    float: right;
+    
+
+}
